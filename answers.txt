@@ -1,0 +1,3 @@
+What is a remote repository?
+Remote repositories are versions of your project/code that are hosted on the
+internet or some other network.
